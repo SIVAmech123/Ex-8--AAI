@@ -1,7 +1,4 @@
-<H3> NAME: DARIO G </H3>
-<H3> REGISTER NUMBER: 212222230027 </H3>
-<H3>EXPERIMENT NO: 08 </H3>
-<H3>DATE:  </H3>
+
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim :</H3>
 
